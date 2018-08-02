@@ -1,0 +1,94 @@
+@CHARSET "UTF-8";
+
+html{
+	font-size: 62.5%; 
+}
+html body, html h1, html h2, html h3, html h4, html h5, html h6, html hr, html p, html blockquote, html dl, html dt, html dd, html ul, html ol, html li, html pre, html form, html fieldset, html legend, html button, html input, html textarea, html th, html td {
+    margin: 0;
+    padding: 0;}
+html body, html button, html input, html select, html textarea {
+    -webkit-touch-callout:none;
+    font-style: normal;
+	font-family: -apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+html address, html cite, html dfn, html em, html var {
+    font-style: normal; }
+html code, html kbd, html pre, html samp {
+    font-family: -apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+html ul, html ol, html li {
+    list-style: none; }
+html ul{
+	padding:0;
+	margin:0;
+}
+html li{
+	margin: 0;
+	padding: 0;
+}
+html a {
+    text-decoration: none; }
+html a:hover {
+    text-decoration: underline; }
+html sup {
+    vertical-align: text-top; }
+html sub {
+    vertical-align: text-bottom; }
+html legend {
+    color: #000; }
+html fieldset, html img {
+    border: 0; }
+html button, html input, html select, html textarea {
+    font-size: 100%; }
+html table {
+    border-collapse: collapse;
+    border-spacing: 0; }
+
+/* 文字   */
+/* 大标题   */
+html h1{
+	font-size: 2.2rem;
+}
+/* 中标题   */
+html h2{
+	font-size: 1.8rem;
+}
+/* 小标题   */
+html h3{
+	font-size: 1.2rem;
+}
+/* 正文   */
+html p{
+	font-size: 1.55rem;
+	line-height: 2.4rem;
+	letter-spacing: 0.00em;
+	white-space: pre-wrap;
+	box-sizing: border-box;
+	word-wrap: break-word;
+	-webkit-margin-before: 0.7rem;
+    -webkit-margin-after: 0.7rem;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+/* 如简介等的小字的p */
+html .pSmall{
+	font-size: 1.3rem;
+	line-height: 2.0rem;
+}
+.textColorDark{}
+.textColorMiddle{color: #3e3e3e}
+.textColorLight{color: #949494}
+.textSize1{}
+.textSize2{}
+.textSize3{}
+.textSize4{}
+
+/* 一些控件   */
+.space{
+	height: 1rem;
+	width: 100%;
+	background-color: #E4E4E4;
+}
+.line{
+	height: 1px;
+	width: 100%;
+	background-color: #dfdfdf;
+}

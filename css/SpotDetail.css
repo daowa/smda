@@ -1,0 +1,133 @@
+@CHARSET "UTF-8";
+
+.divImg{
+	position: relative;
+	height: 19rem;
+	width: 100%;
+	overflow: hidden;
+}
+.divImg img{
+	width: 100%;
+	min-height: 19rem;
+}
+.divImg .divSpotName{
+	height: 3.0rem;
+	line-height: 3.0rem;
+	width: 100%;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+.divImg .spotName{
+	padding-left: 1rem;
+	color: #ffffff;
+	-webkit-margin-before: 0.1rem;
+    -webkit-margin-after: 0.0rem;
+}
+
+.divButtons{
+	position: relative;
+	height: 11.5rem;
+	width: 100%;
+}
+.divButtons .line0{
+	height: 100%;
+	width: 0.1rem;
+	position: absolute;
+	left: 50%;
+	background-color: #f3f3f3;
+}
+.divButtons .divButton{
+	height: 100%;
+	width: 50%;
+	position: relative;
+	float: left;
+}
+.divButtons .divButton img{
+	height: 5rem;
+	width: 5rem;
+	display: block; 
+	margin:auto;
+	padding-top: 1.5rem;
+}
+.divButtons .divButton p{
+	text-align: center;
+	margin-top: 1rem;
+}
+
+.line1{
+	height: 0.1rem;
+	width: 100%;
+	background-color: #f3f3f3;
+}
+
+ul{
+	width: 100%;
+}
+ul li{
+	width: 100%;
+	height: 16rem;
+	margin-top: 0.5rem;
+	position: relative;
+}
+ul li .divText{
+	height: 14rem;
+	width: 54%;
+	margin-top: 1rem;
+}
+ul li .divText h2{
+	text-align: center;
+}
+ul li img{
+	height: 8rem;
+	width: 8rem;
+	margin-top: 3.5rem;
+	border-radius: 50%;
+}
+ul li .divLeft{
+	position: absolute;
+	left: 2.1rem;
+}
+ul li .divRight{
+	position: absolute;
+	right: 2.1rem;
+}
+
+.divTop{
+	height: 2.9rem;
+	width: 100%;
+	position: relative;
+}
+.divTop .textPhoto{
+	position: absolute;
+	left: 1rem;
+	font-size: 1.4rem;
+	line-height: 2.6rem;
+	-webkit-margin-before: 0.2rem;
+    -webkit-margin-after: 0.1rem;
+}
+.divTop .textMore{
+	position: absolute;
+	right: 1rem;
+	font-size: 1.4rem;
+	line-height: 2.6rem;
+	-webkit-margin-before: 0.2rem;
+    -webkit-margin-after: 0.1rem;
+}
+.divContent{
+	padding-top: 1rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+.divContent .divImg{
+	height: 17rem;
+}
+.divContent .divImg img{
+	width: 100%;
+	min-height: 17rem;
+}
+.divContent .text p{
+	-webkit-margin-before: 0.6rem;
+    -webkit-margin-after: 0.6rem;
+}

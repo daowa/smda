@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0850b477-4c2f-4301-9bf3-a6d38d0b1bca" name="默认的" comment="" />
+    <ignored path="takeout.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="takeout" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="forecast.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/forecast.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6060606">
+              <caret line="83" column="58" selection-start-line="83" selection-start-column="58" selection-end-line="83" selection-end-column="58" />
+              <folding>
+                <marker date="1512726186113" expanded="true" signature="1715:1852" placeholder="SELECT locat... tb_locationname" />
+                <marker date="1512726186113" expanded="true" signature="2050:2127" placeholder="select locat... tb_shoplocation" />
+                <marker date="1512726186113" expanded="true" signature="6838:7061" placeholder="..." />
+                <marker date="1512726186113" expanded="true" signature="8319:8497" placeholder="SELECT weigh... net_line_new" />
+                <marker date="1512726186113" expanded="true" signature="8334:8415" placeholder="select shopn... net_node_new" />
+                <marker date="1512726186113" expanded="true" signature="11798:11838" placeholder="..." />
+                <marker date="1512726186113" expanded="false" signature="11873:11907" placeholder="..." />
+                <marker date="1512726186113" expanded="true" signature="11908:12143" placeholder="..." />
+                <marker date="1512726186113" expanded="false" signature="12176:12223" placeholder="..." />
+                <marker date="1512726186113" expanded="false" signature="12255:12289" placeholder="..." />
+                <marker date="1512726186113" expanded="true" signature="12290:12359" placeholder="..." />
+                <marker date="1512726186113" expanded="true" signature="17840:17908" placeholder="select dishe... tb_baiduwaimaishop" />
+                <marker date="1512726186113" expanded="true" signature="18551:18619" placeholder="select dishe... tb_baiduwaimaishop" />
+                <marker date="1512726186113" expanded="true" signature="22040:22176" placeholder="select shopn... net_line" />
+                <marker date="1512726186113" expanded="true" signature="22569:22705" placeholder="select shopn... net_line" />
+                <marker date="1512726186113" expanded="true" signature="22986:23387" placeholder="select (sele... net_line" />
+                <marker date="1512726186113" expanded="true" signature="22994:23043" placeholder="select shopn... net_node" />
+                <marker date="1512726186113" expanded="true" signature="23046:23095" placeholder="select shopn... net_node" />
+                <marker date="1512726186113" expanded="true" signature="23135:23236" placeholder="select m.tar... *" />
+                <marker date="1512726186113" expanded="true" signature="23157:23230" placeholder="select * fro... net_line" />
+                <marker date="1512726186113" expanded="true" signature="23253:23354" placeholder="select n.tar... *" />
+                <marker date="1512726186113" expanded="true" signature="23275:23348" placeholder="select * fro... net_line" />
+                <marker date="1512726186113" expanded="true" signature="25469:25540" placeholder="select wordc... tb_baiduwaimaishop" />
+                <marker date="1512726186113" expanded="true" signature="26893:26977" placeholder="select incre... weather_userincrease" />
+                <marker date="1512726186113" expanded="true" signature="29034:29111" placeholder="select incre... weather_userincrease" />
+                <marker date="1512726186113" expanded="true" signature="30131:30193" placeholder="select incre... weather_foodincrease" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-103.38461">
+              <caret line="603" column="23" selection-start-line="603" selection-start-column="23" selection-end-line="603" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animations.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/animations.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-24.5">
+              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="similarity.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/similarity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predictShopInterval.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/predictShopInterval.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/similarity.py" />
+        <option value="$PROJECT_DIR$/../../menu.php" />
+        <option value="$PROJECT_DIR$/predictShopInterval.py" />
+        <option value="$PROJECT_DIR$/css/animations.css" />
+        <option value="$PROJECT_DIR$/../../defaultweixin.php" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/forecast.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="takeout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="takeout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="takeout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="takeout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="takeout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="takeout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="takeout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.控制台配色" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitsmda\web\takeout\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.forecast.php">
+    <configuration default="false" name="forecast.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/takeout/forecast.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.forecast.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.forecast.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0850b477-4c2f-4301-9bf3-a6d38d0b1bca" name="默认的" comment="" />
+      <created>1482410753632</created>
+      <option name="number" value="Default" />
+      <updated>1482410753632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16197917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17634636" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/forecast.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512726186113" expanded="true" signature="1715:1852" placeholder="SELECT locat... tb_locationname" />
+            <marker date="1512726186113" expanded="true" signature="2050:2127" placeholder="select locat... tb_shoplocation" />
+            <marker date="1512726186113" expanded="true" signature="6838:7061" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="8319:8497" placeholder="SELECT weigh... net_line_new" />
+            <marker date="1512726186113" expanded="true" signature="8334:8415" placeholder="select shopn... net_node_new" />
+            <marker date="1512726186113" expanded="true" signature="11798:11838" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="11873:11907" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="11908:12143" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="12176:12223" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="12255:12289" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="12290:12359" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="17840:17908" placeholder="select dishe... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="18551:18619" placeholder="select dishe... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="22040:22176" placeholder="select shopn... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22569:22705" placeholder="select shopn... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22986:23387" placeholder="select (sele... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22994:23043" placeholder="select shopn... net_node" />
+            <marker date="1512726186113" expanded="true" signature="23046:23095" placeholder="select shopn... net_node" />
+            <marker date="1512726186113" expanded="true" signature="23135:23236" placeholder="select m.tar... *" />
+            <marker date="1512726186113" expanded="true" signature="23157:23230" placeholder="select * fro... net_line" />
+            <marker date="1512726186113" expanded="true" signature="23253:23354" placeholder="select n.tar... *" />
+            <marker date="1512726186113" expanded="true" signature="23275:23348" placeholder="select * fro... net_line" />
+            <marker date="1512726186113" expanded="true" signature="25469:25540" placeholder="select wordc... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="26893:26977" placeholder="select incre... weather_userincrease" />
+            <marker date="1512726186113" expanded="true" signature="29034:29111" placeholder="select incre... weather_userincrease" />
+            <marker date="1512726186113" expanded="true" signature="30131:30193" placeholder="select incre... weather_foodincrease" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animations.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../defaultweixin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+          <folding>
+            <marker date="1512725956334" expanded="true" signature="3130:3218" placeholder="select shop_... tb_baiduwaimaishop" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/similarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="22" selection-start-line="57" selection-start-column="4" selection-end-line="59" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predictShopInterval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/zepto.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/similarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predictShopInterval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../defaultweixin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24324325">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="35" />
+          <folding>
+            <marker date="1512725956334" expanded="true" signature="3130:3218" placeholder="select shop_... tb_baiduwaimaishop" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/tobarchart.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/dot2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/tosensitivedishes.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animations.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.5">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-103.38461">
+          <caret line="603" column="23" selection-start-line="603" selection-start-column="23" selection-end-line="603" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forecast.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6060606">
+          <caret line="83" column="58" selection-start-line="83" selection-start-column="58" selection-end-line="83" selection-end-column="58" />
+          <folding>
+            <marker date="1512726186113" expanded="true" signature="1715:1852" placeholder="SELECT locat... tb_locationname" />
+            <marker date="1512726186113" expanded="true" signature="2050:2127" placeholder="select locat... tb_shoplocation" />
+            <marker date="1512726186113" expanded="true" signature="6838:7061" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="8319:8497" placeholder="SELECT weigh... net_line_new" />
+            <marker date="1512726186113" expanded="true" signature="8334:8415" placeholder="select shopn... net_node_new" />
+            <marker date="1512726186113" expanded="true" signature="11798:11838" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="11873:11907" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="11908:12143" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="12176:12223" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="12255:12289" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="12290:12359" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="17840:17908" placeholder="select dishe... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="18551:18619" placeholder="select dishe... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="22040:22176" placeholder="select shopn... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22569:22705" placeholder="select shopn... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22986:23387" placeholder="select (sele... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22994:23043" placeholder="select shopn... net_node" />
+            <marker date="1512726186113" expanded="true" signature="23046:23095" placeholder="select shopn... net_node" />
+            <marker date="1512726186113" expanded="true" signature="23135:23236" placeholder="select m.tar... *" />
+            <marker date="1512726186113" expanded="true" signature="23157:23230" placeholder="select * fro... net_line" />
+            <marker date="1512726186113" expanded="true" signature="23253:23354" placeholder="select n.tar... *" />
+            <marker date="1512726186113" expanded="true" signature="23275:23348" placeholder="select * fro... net_line" />
+            <marker date="1512726186113" expanded="true" signature="25469:25540" placeholder="select wordc... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="26893:26977" placeholder="select incre... weather_userincrease" />
+            <marker date="1512726186113" expanded="true" signature="29034:29111" placeholder="select incre... weather_userincrease" />
+            <marker date="1512726186113" expanded="true" signature="30131:30193" placeholder="select incre... weather_foodincrease" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

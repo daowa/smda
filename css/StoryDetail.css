@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+
+.divImg{
+	height: 20rem;
+	width: 100%;
+	overflow: hidden;
+}
+.divImg img{
+	width: 100%;
+	min-height: 20rem;
+}
+
+.content{
+	padding-left: 2rem;
+	padding-right: 2rem;
+	padding-top: 1.3rem;
+}
+.content .voice{
+	height: 10rem;
+	width: 100%;
+	background: #f5e8f4;
+}
+
+.foot{
+	height: 6.5rem;
+}
+
+.collect{
+	position: fixed;
+	right: 2rem;
+	bottom: 2rem;
+	height: 6rem;
+	width: 6rem;
+    line-height: 6rem;
+    text-align: center;
+	border-radius: 50%;
+	background-color: #66CC99;
+}
+.collect h2{
+	font-size: 1.5rem;
+	color: #ffffff;
+}

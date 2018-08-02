@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1899591d-f961-42ca-8cb6-1bfbe7f566e9" name="Default" comment="" />
+    <ignored path="smda_wechat.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="smda_wechat" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/takeout/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-394.8">
+              <caret line="564" column="9" selection-start-line="564" selection-start-column="9" selection-end-line="564" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/takeout/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/takeout/css/reset.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="9" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forecast.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/takeout/forecast.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.8">
+              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+              <folding>
+                <marker date="1512726186113" expanded="true" signature="1715:1852" placeholder="SELECT locat... tb_locationname" />
+                <marker date="1512726186113" expanded="true" signature="2050:2127" placeholder="select locat... tb_shoplocation" />
+                <marker date="1512726186113" expanded="true" signature="8319:8497" placeholder="SELECT weigh... net_line_new" />
+                <marker date="1512726186113" expanded="true" signature="8334:8415" placeholder="select shopn... net_node_new" />
+                <marker date="1512726186113" expanded="true" signature="11798:11838" placeholder="..." />
+                <marker date="1512726186113" expanded="false" signature="11873:11907" placeholder="..." />
+                <marker date="1512726186113" expanded="true" signature="11908:12143" placeholder="..." />
+                <marker date="1512726186113" expanded="false" signature="12176:12223" placeholder="..." />
+                <marker date="1512726186113" expanded="false" signature="12255:12289" placeholder="..." />
+                <marker date="1512726186113" expanded="true" signature="12290:12359" placeholder="..." />
+                <marker date="1512726186113" expanded="true" signature="17840:17908" placeholder="select dishe... tb_baiduwaimaishop" />
+                <marker date="1512726186113" expanded="true" signature="18551:18619" placeholder="select dishe... tb_baiduwaimaishop" />
+                <marker date="1512726186113" expanded="true" signature="22040:22176" placeholder="select shopn... net_line" />
+                <marker date="1512726186113" expanded="true" signature="22569:22705" placeholder="select shopn... net_line" />
+                <marker date="1512726186113" expanded="true" signature="22986:23387" placeholder="select (sele... net_line" />
+                <marker date="1512726186113" expanded="true" signature="22994:23043" placeholder="select shopn... net_node" />
+                <marker date="1512726186113" expanded="true" signature="23046:23095" placeholder="select shopn... net_node" />
+                <marker date="1512726186113" expanded="true" signature="23135:23236" placeholder="select m.tar... *" />
+                <marker date="1512726186113" expanded="true" signature="23157:23230" placeholder="select * fro... net_line" />
+                <marker date="1512726186113" expanded="true" signature="23253:23354" placeholder="select n.tar... *" />
+                <marker date="1512726186113" expanded="true" signature="23275:23348" placeholder="select * fro... net_line" />
+                <marker date="1512726186113" expanded="true" signature="25469:25540" placeholder="select wordc... tb_baiduwaimaishop" />
+                <marker date="1512726186113" expanded="true" signature="26893:26977" placeholder="select incre... weather_userincrease" />
+                <marker date="1512726186113" expanded="true" signature="29034:29111" placeholder="select pass_... tb_baiduwaimai" />
+                <marker date="1512726186113" expanded="true" signature="30131:30193" placeholder="select incre... weather_foodincrease" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/takeout/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="similarity.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/takeout/similarity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7777778">
+              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weixin.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.7">
+              <caret line="119" column="20" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
+              <folding>
+                <marker date="1512721768964" expanded="true" signature="2057:2281" placeholder="..." />
+                <marker date="1512721768964" expanded="true" signature="2731:2978" placeholder="..." />
+                <marker date="1512721768964" expanded="true" signature="2958:2972" placeholder="..." />
+                <marker date="1512721768964" expanded="true" signature="3002:3150" placeholder="..." />
+                <marker date="1512721768964" expanded="true" signature="3611:3819" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/weixin.config.php" />
+        <option value="$PROJECT_DIR$/web/takeout/takeout.php" />
+        <option value="$PROJECT_DIR$/weixin.class.php" />
+        <option value="$PROJECT_DIR$/menu.php" />
+        <option value="$PROJECT_DIR$/web/takeout/report.php" />
+        <option value="$PROJECT_DIR$/web/takeout/js/wm.js" />
+        <option value="$PROJECT_DIR$/web/takeout/css/wm.css" />
+        <option value="D:/smda/predictShopInterval.py" />
+        <option value="$PROJECT_DIR$/web/takeout/css/style.css" />
+        <option value="$PROJECT_DIR$/web/takeout/css/animations.css" />
+        <option value="$PROJECT_DIR$/web/takeout/test.html" />
+        <option value="$PROJECT_DIR$/web/takeout/js/index.js" />
+        <option value="$PROJECT_DIR$/web/takeout/predictShopInterval.py" />
+        <option value="$PROJECT_DIR$/web/takeout/css/index.css" />
+        <option value="$PROJECT_DIR$/web/takeout/forecast.php" />
+        <option value="$PROJECT_DIR$/defaultweixin.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+        <subPane subId="Default" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitsmda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitsmda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitsmda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitsmda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitsmda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/smda/招聘手机场景应用(011)" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="E:\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitsmda\web\takeout\js" />
+      <recent name="D:\gitsmda\web\takeout" />
+      <recent name="D:\gitsmda\web\takeout\css" />
+      <recent name="E:\smda_git\web\takeout" />
+      <recent name="E:\smda_git\web\takeout\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.forecast.php">
+    <configuration default="false" name="report.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/smda_git/web/takeout/report.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="forecast.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gitsmda/web/takeout/forecast.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="forecast.php (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gitsmda/web/takeout/forecast.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="forecast.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/web/takeout/forecast.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="takeout" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/web/takeout" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.report.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.forecast.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.forecast.php (1)" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.forecast.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHPUnit.takeout" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.forecast.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHPUnit.takeout" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.forecast.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.forecast.php (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.forecast.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1899591d-f961-42ca-8cb6-1bfbe7f566e9" name="Default" comment="" />
+      <created>1481722212797</created>
+      <option name="number" value="Default" />
+      <updated>1481722212797</updated>
+      <workItem from="1481722215872" duration="559000" />
+      <workItem from="1481890210142" duration="3980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="takeout - 2017.01.11 at 15h 34m 39s.xml">
+      <configuration name="takeout" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4539000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11169102" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284055" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.49761903" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/js/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/css/animations.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="357" column="1" selection-start-line="357" selection-start-column="1" selection-end-line="357" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="203" column="17" selection-start-line="203" selection-start-column="17" selection-end-line="203" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/forecast.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512726186113" expanded="true" signature="1715:1852" placeholder="SELECT locat... tb_locationname" />
+            <marker date="1512726186113" expanded="true" signature="2050:2127" placeholder="select locat... tb_shoplocation" />
+            <marker date="1512726186113" expanded="true" signature="8319:8497" placeholder="SELECT weigh... net_line_new" />
+            <marker date="1512726186113" expanded="true" signature="8334:8415" placeholder="select shopn... net_node_new" />
+            <marker date="1512726186113" expanded="true" signature="11798:11838" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="11873:11907" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="11908:12143" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="12176:12223" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="12255:12289" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="12290:12359" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="17840:17908" placeholder="select dishe... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="18551:18619" placeholder="select dishe... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="22040:22176" placeholder="select shopn... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22569:22705" placeholder="select shopn... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22986:23387" placeholder="select (sele... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22994:23043" placeholder="select shopn... net_node" />
+            <marker date="1512726186113" expanded="true" signature="23046:23095" placeholder="select shopn... net_node" />
+            <marker date="1512726186113" expanded="true" signature="23135:23236" placeholder="select m.tar... *" />
+            <marker date="1512726186113" expanded="true" signature="23157:23230" placeholder="select * fro... net_line" />
+            <marker date="1512726186113" expanded="true" signature="23253:23354" placeholder="select n.tar... *" />
+            <marker date="1512726186113" expanded="true" signature="23275:23348" placeholder="select * fro... net_line" />
+            <marker date="1512726186113" expanded="true" signature="25469:25540" placeholder="select wordc... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="26893:26977" placeholder="select incre... weather_userincrease" />
+            <marker date="1512726186113" expanded="true" signature="29034:29111" placeholder="select pass_... tb_baiduwaimai" />
+            <marker date="1512726186113" expanded="true" signature="30131:30193" placeholder="select incre... weather_foodincrease" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/defaultweixin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="14" selection-start-line="92" selection-start-column="14" selection-end-line="92" selection-end-column="14" />
+          <folding>
+            <marker date="1512725956334" expanded="true" signature="2777:2865" placeholder="select shop_... tb_baiduwaimaishop" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="20" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
+          <folding>
+            <marker date="1512721768964" expanded="true" signature="2057:2281" placeholder="..." />
+            <marker date="1512721768964" expanded="true" signature="2731:2978" placeholder="..." />
+            <marker date="1512721768964" expanded="true" signature="2958:2972" placeholder="..." />
+            <marker date="1512721768964" expanded="true" signature="3002:3150" placeholder="..." />
+            <marker date="1512721768964" expanded="true" signature="3611:3819" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/js/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/css/animations.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="357" column="1" selection-start-line="357" selection-start-column="1" selection-end-line="357" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="292" column="10" selection-start-line="292" selection-start-column="10" selection-end-line="292" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/forecast.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512726186113" expanded="true" signature="1715:1852" placeholder="SELECT locat... tb_locationname" />
+            <marker date="1512726186113" expanded="true" signature="2050:2127" placeholder="select locat... tb_shoplocation" />
+            <marker date="1512726186113" expanded="true" signature="8319:8497" placeholder="SELECT weigh... net_line_new" />
+            <marker date="1512726186113" expanded="true" signature="8334:8415" placeholder="select shopn... net_node_new" />
+            <marker date="1512726186113" expanded="true" signature="11798:11838" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="11873:11907" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="11908:12143" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="12176:12223" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="12255:12289" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="12290:12359" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="17840:17908" placeholder="select dishe... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="18551:18619" placeholder="select dishe... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="22040:22176" placeholder="select shopn... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22569:22705" placeholder="select shopn... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22986:23387" placeholder="select (sele... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22994:23043" placeholder="select shopn... net_node" />
+            <marker date="1512726186113" expanded="true" signature="23046:23095" placeholder="select shopn... net_node" />
+            <marker date="1512726186113" expanded="true" signature="23135:23236" placeholder="select m.tar... *" />
+            <marker date="1512726186113" expanded="true" signature="23157:23230" placeholder="select * fro... net_line" />
+            <marker date="1512726186113" expanded="true" signature="23253:23354" placeholder="select n.tar... *" />
+            <marker date="1512726186113" expanded="true" signature="23275:23348" placeholder="select * fro... net_line" />
+            <marker date="1512726186113" expanded="true" signature="25469:25540" placeholder="select wordc... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="26893:26977" placeholder="select incre... weather_userincrease" />
+            <marker date="1512726186113" expanded="true" signature="29034:29111" placeholder="select pass_... tb_baiduwaimai" />
+            <marker date="1512726186113" expanded="true" signature="30131:30193" placeholder="select incre... weather_foodincrease" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/js/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/css/animations.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="357" column="1" selection-start-line="357" selection-start-column="1" selection-end-line="357" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="250" column="48" selection-start-line="250" selection-start-column="48" selection-end-line="250" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/defaultweixin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="250" column="48" selection-start-line="250" selection-start-column="48" selection-end-line="250" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/defaultweixin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/defaultweixin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/SpotList/SpotDetail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32142857">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/img/dot1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/img/cost_level.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/img/circle-production.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/css/animations.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="357" column="1" selection-start-line="357" selection-start-column="1" selection-end-line="357" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/js/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/js/echarts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/js/echarts-all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63707864">
+          <caret line="0" column="5583" selection-start-line="0" selection-start-column="5583" selection-end-line="0" selection-end-column="5583" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/OCR_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/smda/(2016微信H5页面)轻app场景应用源码/招聘手机场景应用(011)/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/predictShopInterval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26797387">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-394.8">
+          <caret line="564" column="9" selection-start-line="564" selection-start-column="9" selection-end-line="564" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7">
+          <caret line="119" column="20" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
+          <folding>
+            <marker date="1512721768964" expanded="true" signature="2057:2281" placeholder="..." />
+            <marker date="1512721768964" expanded="true" signature="2731:2978" placeholder="..." />
+            <marker date="1512721768964" expanded="true" signature="2958:2972" placeholder="..." />
+            <marker date="1512721768964" expanded="true" signature="3002:3150" placeholder="..." />
+            <marker date="1512721768964" expanded="true" signature="3611:3819" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/forecast.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.8">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding>
+            <marker date="1512726186113" expanded="true" signature="1715:1852" placeholder="SELECT locat... tb_locationname" />
+            <marker date="1512726186113" expanded="true" signature="2050:2127" placeholder="select locat... tb_shoplocation" />
+            <marker date="1512726186113" expanded="true" signature="8319:8497" placeholder="SELECT weigh... net_line_new" />
+            <marker date="1512726186113" expanded="true" signature="8334:8415" placeholder="select shopn... net_node_new" />
+            <marker date="1512726186113" expanded="true" signature="11798:11838" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="11873:11907" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="11908:12143" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="12176:12223" placeholder="..." />
+            <marker date="1512726186113" expanded="false" signature="12255:12289" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="12290:12359" placeholder="..." />
+            <marker date="1512726186113" expanded="true" signature="17840:17908" placeholder="select dishe... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="18551:18619" placeholder="select dishe... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="22040:22176" placeholder="select shopn... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22569:22705" placeholder="select shopn... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22986:23387" placeholder="select (sele... net_line" />
+            <marker date="1512726186113" expanded="true" signature="22994:23043" placeholder="select shopn... net_node" />
+            <marker date="1512726186113" expanded="true" signature="23046:23095" placeholder="select shopn... net_node" />
+            <marker date="1512726186113" expanded="true" signature="23135:23236" placeholder="select m.tar... *" />
+            <marker date="1512726186113" expanded="true" signature="23157:23230" placeholder="select * fro... net_line" />
+            <marker date="1512726186113" expanded="true" signature="23253:23354" placeholder="select n.tar... *" />
+            <marker date="1512726186113" expanded="true" signature="23275:23348" placeholder="select * fro... net_line" />
+            <marker date="1512726186113" expanded="true" signature="25469:25540" placeholder="select wordc... tb_baiduwaimaishop" />
+            <marker date="1512726186113" expanded="true" signature="26893:26977" placeholder="select incre... weather_userincrease" />
+            <marker date="1512726186113" expanded="true" signature="29034:29111" placeholder="select pass_... tb_baiduwaimai" />
+            <marker date="1512726186113" expanded="true" signature="30131:30193" placeholder="select incre... weather_foodincrease" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/defaultweixin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.5945945">
+          <caret line="152" column="0" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding>
+            <marker date="1512725956334" expanded="true" signature="2777:2865" placeholder="select shop_... tb_baiduwaimaishop" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/takeout/similarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7777778">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

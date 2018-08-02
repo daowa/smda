@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+li{
+	background-color: #ffffff;
+}
+li .divImg{
+	height: 20rem;
+	width: 100%;
+	overflow: hidden;
+}
+li .divImg img{
+	width: 100%;
+	min-height: 20rem;
+}
+li .divText{
+	width: 24rem;
+	margin: 0 auto;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+/* height控制下方留白高度   */
+li .line{
+	height: 0.1rem;
+	width: 100%;
+	background-color: #dfdfdf;
+}
